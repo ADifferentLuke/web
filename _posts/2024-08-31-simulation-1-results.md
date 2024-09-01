@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Simulation 1 Results
+title: Genesis Simulation 1 Results
 date: '2024-08-31 19:50:17 -0400'
-categories: [Simulation, Results]
+categories: [Genesis, Results]
 tags: [simulation1]     # TAG names should always be lowercase
 ---
 #### Results

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Simulation 2 Results
+title: Genesis Simulation 2 Results
 date: '2024-08-31 19:50:17 -0400'
-categories: [Simulation, Results]
+categories: [Genesis, Results]
 tags: [simulation2]     # TAG names should always be lowercase
 ---
 #### Results
@@ -18,13 +18,13 @@ tags: [simulation2]     # TAG names should always be lowercase
 - Cell Metabolisms need to be rebalanced
 - Output for environment resources / heat map
 - Why do I get different behavior when I rerun the most fit organisms?
-        - Found reference bug in genome which fixes replayability
-        - Significant slow down, needs optimization
+	- Found reference bug in genome which fixes replayability
+	- Significant slow down, needs optimization
 - On simulation end, non-deceased organisms need to be recorded
 - Seed ejection is too cheap
 - Seeds need to decay
-        - A fully junk dna lingers until the stagnation timer removes it
-        - Ecosystem is overwhelmed by seeds
+	- A fully junk dna lingers until the stagnation timer removes it
+	- Ecosystem is overwhelmed by seeds
 
 #### Most fit organism
 ``` json
