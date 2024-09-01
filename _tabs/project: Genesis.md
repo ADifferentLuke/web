@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 0
 math: true
 ---
-<a id='top'></a>
+<a id='top' href=""></a>
 Inspired by a youtube video I saw once, this project is to play with genetic algothrims. It is also a sandbox for playing with different design patterns and language features.
 
 [Sources](#Sources) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ $$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*
   * [https://dl.acm.org/doi/pdf/10.5555/2933718.2933761](https://dl.acm.org/doi/pdf/10.5555/2933718.2933761)
 
 
-#### Development <a id='Development'></a>
+#### Development <a id='Development' href=""></a>
 
 
     <dependency>
@@ -38,7 +38,7 @@ $$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*
         <version>v0.2.2</version>
     </dependency>
 
-#### Useful Links <a id='Useful-Links'></a>
+#### Useful Links <a id='Useful-Links' href=""></a>
 [Javadocs](https://www.javadoc.io/doc/net.lukemcomber/genetics/latest/index.html)<br/>
 [Source Code](https://github.com/ADifferentLuke/Genetics/)<br/>
 [Example Configuration](https://github.com/ADifferentLuke/Genetics/blob/main/src/main/java/net/lukemcomber/genetics/universes/FlatFloraUniverse.java) <br />
