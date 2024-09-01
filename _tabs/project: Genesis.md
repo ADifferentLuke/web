@@ -16,8 +16,11 @@ Inspired by a youtube video I saw once, this project is to play with genetic alg
 $$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*log(W_{4}O_{1})$$
 
 #### Simulation Snapshot:
-[Simulation 3 : Grass (4x zoom)](https://github.com/ADifferentLuke/Genetics/blob/main/notes/simulation_3_800x400) <br/>
+[Simulation 3 : Grass (4x zoom)](/posts/simulation-3-results/) <br />
 ![Simulation Grass](https://github.com/ADifferentLuke/Genetics/blob/main/misc/Grass.gif?raw=true)
+<br />
+[Simulation 4 : (4x zoom)](/posts/simulation-4-fitness-analysis/) <br />
+![gif](assets/samples/Simulation4-Sample-Epoch3.gif)
 
 
 #### Reference Papers <a id='papers' href="#"></a>

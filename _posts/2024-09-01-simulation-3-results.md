@@ -9,7 +9,7 @@ tags: [simulation3]     # TAG names should always be lowercase
 Epochs 2 -3 tend to be short lived organisms with no children. Epoch 4 starts seeing larger organisms, and significant seed ejection. Epoch 5 algea started appearing. Pure roots with exponential spread and able to circumnavigate obstacles. Epoch 6+, algea gets larger and mor aggressive.
 <br />
 <br />
-Total Organisms: 549263
+Total Organisms: 549263 <br />
 Best Fitness: 5.02527225438268
 
 #### Changes
