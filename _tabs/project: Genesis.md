@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 0
 math: true
 ---
-<a id='top' href'#'></a>
+
 Inspired by a youtube video I saw once, this project is to play with genetic algothrims. It is also a sandbox for playing with different design patterns and language features.
 
 [Sources](#Sources) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
