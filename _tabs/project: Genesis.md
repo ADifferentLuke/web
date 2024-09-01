@@ -20,7 +20,7 @@ $$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*
 ![Simulation Grass](https://github.com/ADifferentLuke/Genetics/blob/main/misc/Grass.gif?raw=true)
 
 
-#### Sources <a id='Sources'></a>
+#### Sources <a id='Sources' href=""></a>
 * Asexual Versus Sexual Reproduction in Genetic Algorithms
   * [https://carleton.ca/cognitivescience/wp-content/uploads/2006-09.pdf](https://carleton.ca/cognitivescience/wp-content/uploads/2006-09.pdf)
 * A simple algorithm for optimization and model fitting
