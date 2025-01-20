@@ -6,8 +6,9 @@ categories: [Genesis, Results]
 tags: [simulation5]     # TAG names should always be lowercase
 ---
 #### Results
-Simulation 5 ran for 1000 Epochs with a starting population of 1000 organisms. Population growth slowly ramped up over the first 100ish epochs before plateauing and them slowly decreasing. By the 300th epoch, the top 100 most fit organisms have been selected and further epochs provide no value. Maximum fitness does not rise above a normalized .4 which is extremely low.
+Simulation 5 ran for 1000 Epochs with a starting population of 1000 organisms. Ideally population growth should follow an upward trend, however it doesn't follow any pattern. By the 300th epoch, the top 100 most fit organisms have been selected and further epochs provide no value. Maximum fitness does not rise above a normalized .4 which is extremely low.
 
+![png](assets/figures/genesis-sim5-analysis/Simulation5PopulationOverEpoch.png)
 
 #### Changes
 - Now runs multiple epochs
