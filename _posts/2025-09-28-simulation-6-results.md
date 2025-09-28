@@ -18,6 +18,8 @@ Population spikes before slightly declining. The cost of generating a seed has b
 
 I'm disappointed the average number of cells per organism begins decreasing around epoch 30. I'm not sure why that is happening, but this may be an indication of a contrapositive relationship between two fitness factors. I'll need to tweak the fitness function more. 
 
+Brown is roots, yellow is seeds, red is helicopter seed, dark green is brank and trunk, light green is leaves.
+
 ![png](assets/samples/Sim6Example1.png) ![png](assets/samples/Sim6Example2.png) ![png](assets/samples/Sim6Example3.png) 
 
 
