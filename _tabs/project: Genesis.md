@@ -13,7 +13,11 @@ Inspired by a youtube video I saw once, this project is to play with genetic alg
 
 #### Fitness Function:
 
-$$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*log(W_{4}O_{1})$$
+$$
+F = [C>1]\cdot \min\left(\frac{u}{a},\frac{a}{u}\right)\cdot \min\left(1,\max\left(0,\frac{\min(D,A_{\max})-B}{\max(1,A_{\max}-B)}\right)\right)\cdot e^{-\beta\left(\max(0,1-O)+\max(0,O-2)\right)}\cdot \frac{C}{C+k}
+$$
+
+
 
 #### Simulation Snapshot:
 [Simulation 3 : Grass (4x zoom)](/posts/simulation-3-results/) <br />
@@ -34,19 +38,15 @@ $$W_{1}log(\sqrt{C_{1}})+ W_{2}\frac{1}{(H_{1}-M_{1})}+W_{3}\frac{D_{1}}{D_{T}}*
 
 #### Development <a id='Development' href="#"></a>
 
-
-    <dependency>
-        <groupId>net.lukemcomber</groupId>
-        <artifactId>genetics</artifactId>
-        <version>v0.2.2</version>
-    </dependency>
-
-#### Useful Links <a id='Useful-Links' href="#"></a>
+[Build Artifact](https://mvnrepository.com/artifact/net.lukemcomber/genetics/v0.3.2)<br/>
 [Javadocs](https://www.javadoc.io/doc/net.lukemcomber/genetics/latest/index.html)<br/>
 [Source Code](https://github.com/ADifferentLuke/Genetics/)<br/>
-[Example Configuration](https://github.com/ADifferentLuke/Genetics/blob/main/src/main/java/net/lukemcomber/genetics/universes/FlatFloraUniverse.java) <br />
-[Example CLI](https://github.com/ADifferentLuke/Genetics/blob/main/src/main/java/net/lukemcomber/genetics/utilities/SimpleSimulator.java) <br />
-[Example UI](https://github.com/ADifferentLuke/Oracle)<br />
+
+#### Useful Links <a id='Useful-Links' href="#"></a>
+
+[Simple CLI](https://github.com/ADifferentLuke/Genetics/blob/main/src/main/java/net/lukemcomber/genetics/utilities/SimpleSimulator.java) <br />
+[Gstep](https://github.com/ADifferentLuke/Gstep)
+[GeneGL](https://github.com/ADifferentLuke/Genegl)
 <br />
 <br />
 [Back to Top](#top)
