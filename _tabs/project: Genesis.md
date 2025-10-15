@@ -16,6 +16,13 @@ This ecosystem includes:
 
 ---
 
+## 🎯 Project Goal
+
+Inspired by a YouTube video I saw once, this project began as an experiment to evolve **tree-like organisms** using genetic algorithms.  
+It serves as both a creative and technical sandbox, a place to explore **evolutionary behaviors**, **software design patterns**, and **modern language features** while observing how virtual life might grow, adapt, and compete in a digital environment.
+
+---
+
 ## 🧠 Fitness Function
 
 The primary fitness function used in `BasicV2FitnessFunction` is:
