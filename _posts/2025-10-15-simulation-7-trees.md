@@ -6,7 +6,6 @@ categories: [Genesis, Analysis]
 tags: [simulation7]     # TAG names should always be lowercase
 ---
 
-### Simulation 7 Snapshots
 
 # Simulation 7: Evolving a Digital Tree — Epoch Walkthrough
 
@@ -82,7 +81,8 @@ This walkthrough pairs **world snapshots from GeneGL** with **most-fit organism 
 
 1. Run **GeneGL** with your configuration until the desired epoch.
 2. Capture a **world screenshot** (e.g., `sim7-epoch-20.png`).
-3. Open **Gstep** for the same state and select the **most fit** organism.
+3. Grab the **most fit** organism from the first line of the _Performance_ log
+3. Open **Gstep** for the same state and input the **most fit** organism.
 4. Capture the **organism screenshot** (e.g., `sim7-epoch-20-mostfit.png`).
 5. Repeat for each epoch; pair images as shown above.
 
@@ -90,7 +90,7 @@ This walkthrough pairs **world snapshots from GeneGL** with **most-fit organism 
 
 ### Attribution
 
-* **World rendering:** GeneGL
-* **Organism visualization:** Gstep
-* **Simulation engine:** Genetics
+* **World rendering:** [GeneGL](https://github.com/ADifferentLuke/Genegl)
+* **Organism visualization:** [Gstep](https://github.com/ADifferentLuke/Gstep)
+* **Simulation engine:** [Genetics](https://github.com/ADifferentLuke/Genetics)
 
