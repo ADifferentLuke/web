@@ -10,9 +10,7 @@ tags: [simulation7]     # TAG names should always be lowercase
 
 # Simulation 7: Evolving a Digital Tree — Epoch Walkthrough
 
-This walkthrough pairs **world snapshots from GeneGL** with **most-fit organism views from Gstep** at the same epochs. The goal of this simulation was to **evolve a tree-like organism** within a 2D world. The final organism fits this description beautifully — though it may appear upside down to us, **there is no up or down in 2D space**, so its orientation is arbitrary within its environment.
-
-> All images are located in `assets/samples/sim7/`.
+This walkthrough pairs **world snapshots from GeneGL** with **most-fit organism views from Gstep** at the same epochs. The goal of this simulation was to **evolve a tree-like organism** within a 2D world. The final organism fits this description beautifully.
 
 ---
 
