@@ -6,12 +6,6 @@ categories: [Tulip, Hardware]
 tags: [stagea]     # TAG names should always be lowercase
 ---
 
-# Time-lapse camera measurements
-
-Every sharpness, focus, exposure, timing, file-size and reliability measurement found in the project notes for the battery-powered Feather and Arducam Mega camera, gathered in one place. Charts are images; each one has a table view with the exact values.
-
-> Powered time per photo is now less than half of where it started. The reliability charts cover what is still being worked on: blurred starts, truncated JPEGs and retakes.
-
 ## Headline numbers
 
 - **Picture size:** 2592×1944. 5 MP JPEG; every Stage A and later run saved at this size.
