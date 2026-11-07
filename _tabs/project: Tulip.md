@@ -106,24 +106,6 @@ Organize software around clear responsibilities such as scheduling, image captur
 
 Preserve the ability to introduce new capabilities without requiring a complete redesign of the hardware or software.
 
-## Initial Hardware Platform
-
-The initial implementation is based on the following components:
-
-| Component | Purpose |
-|---|---|
-| Adafruit Feather ESP32 V2 | Primary microcontroller |
-| Arducam Mega 5MP Autofocus (B040101) | Image capture |
-| Adafruit MiniBoost TPS61023 (#4654) | Switched peripheral power |
-| Adafruit TLV62569 3.3V Buck (#4711) | Regulated microSD power |
-| Adafruit microSD Breakout (#4682) | Removable image storage |
-| 6600 mAh Li-ion battery | Portable power source |
-| 256 GB microSD card | Local photograph storage |
-
-The architecture is intended to allow the ESP32 to remain in a low-power state between captures while the camera and storage peripherals are physically powered down.
-
-Hardware compatibility, power behavior, and performance must be experimentally verified rather than assumed.
-
 ## Development Roadmap
 
 Development is divided into independently verifiable stages.
